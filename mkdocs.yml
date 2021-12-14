@@ -1,0 +1,5 @@
+site_name: DOCS-4
+site_description: Documentation for DOCS-4 site.
+
+nav:
+  - DOCS-1: index.md
